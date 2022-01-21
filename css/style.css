@@ -21,3 +21,24 @@ body{
     margin-left: 20px;
     width: 40px;
 }
+.mail:focus{
+    outline: none;
+}
+.mail::placeholder{
+    font-size: 20px;
+}
+.form-btn::placeholder{
+    font-size: 20px;
+}
+.form-btn:focus{
+    outline: none;
+}
+.stacky{
+    position: fixed;
+    top: 0;
+    background: #16CCF1;
+    z-index: 999;
+    width: 100%;
+    color: white;
+    opacity: 0.9;
+}
