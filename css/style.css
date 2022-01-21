@@ -1,0 +1,16 @@
+/* google fonts link */
+@import url('https://fonts.googleapis.com/css2?family=Inder&family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+/* use this fonts
+font-family: 'Inder', sans-serif;
+font-family: 'Poppins', sans-serif;
+*/
+/* =========================
+Common Css All
+============================*/
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
