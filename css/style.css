@@ -10,7 +10,14 @@ Common Css All
 *{
     margin: 0;
     padding: 0;
+    list-style: none !important;
+    text-decoration: none !important;
 }
 body{
     font-family: 'Poppins', sans-serif;
+    background-color: rgb(240, 227, 202);
+}
+.carousel-control-next,.carousel-control-prev{
+    margin-left: 20px;
+    width: 40px;
 }
